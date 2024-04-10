@@ -118,7 +118,7 @@ async function updateUser(request, response, next) {
 }
 
 /**
- * Handle delete user request
+ * Handle delete user reques
  * @param {object} request - Express request object
  * @param {object} response - Express response object
  * @param {object} next - Express route middlewares
